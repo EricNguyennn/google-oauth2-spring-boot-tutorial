@@ -5,5 +5,5 @@ spring:
       client:
         registration:
           google:
-            client-id: ??
-            client-secret: ??
+            client-id: your-client-id
+            client-secret: your-client-secret
